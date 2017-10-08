@@ -1,0 +1,11 @@
+[user]
+    email = wong.kevin47@gmail.com
+    name = Kevin Wong
+
+[core]
+    editor = nvim
+
+[diff]
+	tool = vimdiff
+[difftool]
+	prompt = false
