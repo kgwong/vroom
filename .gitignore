@@ -2,3 +2,13 @@
 !.vimrc
 !.bashrc
 !.gitignore
+
+#fish config
+!.config
+!.config/fish
+!config.fish
+
+#nvim config
+!.config
+!.config/nvim
+!init.vim
